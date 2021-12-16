@@ -2,5 +2,5 @@ flask
 itsdangerous
 gunicorn
 pandas
-json
+jsonlib
 numpy
